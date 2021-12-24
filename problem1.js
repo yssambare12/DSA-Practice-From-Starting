@@ -87,7 +87,7 @@ if (a > 650) {
 } else if (a > 150) {
     console.log((a - 150) / 5 + 50);
 } else if (a > 0) {
-    console.log(a / 3)
+    console.log(a / 3);
 }
 
 }
