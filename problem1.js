@@ -85,7 +85,7 @@ var a = n - 80;
 if (a > 650) {
     console.log((a - 650) / 10 + 150);
 } else if (a > 150) {
-    console.log((a - 150) / 5 + 50);
+    console.log((a - 150) / 5 + 50)
 } else if (a > 0) {
     console.log(a / 3);
 }
