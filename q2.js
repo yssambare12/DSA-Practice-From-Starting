@@ -13,7 +13,7 @@ function equalTo42(size,arr) {
     }
     
     if (count == 1){
-        console.log("Yes")
+        console.log("Yes");
     } else{
         console.log("No")
     }
