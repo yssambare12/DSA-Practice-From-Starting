@@ -21,13 +21,6 @@
 // Output the numbers given after sorting it in increasing order
 
 
-// Sample Input 1 
-
-// 5
-// 3 5 0 9 8
-// Sample Output 1
-
-// 0 3 5 8 9
 
 
 function selectionsort(arr){
