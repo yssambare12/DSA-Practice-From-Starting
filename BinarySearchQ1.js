@@ -3,7 +3,7 @@
 // You must write an algorithm with O(log n) runtime complexity.
 
 // Input: nums = [1,3,5,6], target = 5
-// Output: 2
+// Output: 3
 
 var searchInsert = function(nums, target) {
     var start = 0; 
